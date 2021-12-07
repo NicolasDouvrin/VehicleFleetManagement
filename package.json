@@ -1,0 +1,19 @@
+{
+  "name": "vehicle-fleet-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.0.0-rc.1",
+    "@types/node": "^16.11.11",
+    "ts-node": "10.4.0"
+  },
+  "type": "commonjs",
+  "module": "esnext"
+}
